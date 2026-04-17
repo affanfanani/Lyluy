@@ -5,7 +5,7 @@ export default function Message() {
       <div className="message">
         <p>Hai,</p>
         <p>Happy birthday yang ke 18 ya, ga nyangka ya sekarang kamu udah tumbuh jadi wanita yang cantik, keren, imut, tangguh, pemberani, taat ibadah, rajin dalam mengejar impian, <span className="highlight">tidak cuek</span> dan tidak sombong</p>
-        <p>Jadi keinget dulu pas kecil kita main ps bareng, warnetan, kemana-mana selalu bareng ya, dalam mimpiku tapi hehe</p>
+        <p>Jadi keinget dulu pas kita main roblox, gak nyangka bakal sejauh ini sama kamu, karena aku kagum ama kamu sih hehehe, sampai sering ngehayal kalo beneran ketemu sama kamu</p>
         <p>Beruntung ya aku bisa ketemu sama kamu, meskipun gak ketemu secara langsung sih</p>
         <p>Banyak hal dan perubahan yang ku pelajari dari pertemuan kita yang tak sengaja ini dan kamu adalah alasan buat aku jadi seseorang yang lebih baik, kamu mario teguhku</p>
         <p>Yah intinya dengan bertambahnya umurmu, semoga rejekimu dan kampus impian yang kamu impikan terkabulkan, selalu diberi kesehatan dan keselamatan, meski kita gapernah ketemu...ill always be here if u need me, Wish u all the best.</p>
