@@ -12,7 +12,7 @@ export default function EntryGate({ onUnlock }: EntryGateProps) {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const KataKunci = "Ghaly";
+    const KataKunci = "Affan";
     
     if (name.trim().toLowerCase() === KataKunci.toLowerCase()) {
       onUnlock();
@@ -34,7 +34,7 @@ return (
           <div className="group">
             <input
               type="text"
-              placeholder="G_____"
+              placeholder="A_____"
               value={name}
               onChange={(e) => setName(e.target.value)}
               className={`w-full bg-transparent border-b-2 ${error ? 'border-red-500' : 'border-white/10'} py-3 px-1 text-center text-2xl font-righteous focus:outline-none focus:border-[#1DB954] transition-all placeholder:opacity-10`}

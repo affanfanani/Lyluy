@@ -6,28 +6,28 @@ import { useState, useRef, useEffect } from 'react';
 const initialPlaylistSongs = [
   {
     id: 1,
-    title: "Just the Way You Are",
-    artist: "Bruno Mars",
-    image: "images/cover1.jpeg",
-    audioUrl: "/audio/song1.mp3",
-    duration: "3:40"
+    title: "About You",
+    artist: "The 1975",
+    image: "images/lyluy.jpeg",
+    audioUrl: "/audio/song lyluy.mp3",
+    duration: "1:00"
   },
   {
     id: 2,
-    title: "Stand By Me",
-    artist: "Oasis",
-    image: "images/cover2.jpeg",
-    audioUrl: "/audio/song2.mp3",
-    duration: "5:57",
+    title: "Kota Ini Tak Sama Tanpamu",
+    artist: "Nadhif Basamalah",
+    image: "images/lyluy 2.jpeg",
+    audioUrl: "/audio/song lyluy 2.mp3",
+    duration: "1:40",
     volume: 50
   },
   {
     id: 3,
-    title: "Just You",
-    artist: "Teddy Adhitya",
-    image: "images/cover3.jpeg",
-    audioUrl: "/audio/song3.mp3",
-    duration: "3:01"
+    title: "Lebih Indah",
+    artist: "Adera",
+    image: "images/lyluy 8.jpeg",
+    audioUrl: "/audio/song lyluy 3.mp3",
+    duration: "0:30"
   }
 ];
 

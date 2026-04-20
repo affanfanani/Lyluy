@@ -17,7 +17,7 @@ export default function SafeImage({
   width = 500, 
   height = 500, 
   className = '',
-  fill = false
+  fill = false  
 }: SafeImageProps) {
   const [imgSrc, setImgSrc] = useState(src);
   

@@ -3,13 +3,13 @@ import SafeImage from "./SafeImage";
 const carouselItems = [
   {
     id: 1,
-    image: "/images/covergiz.jpeg",
-    title: "giskuy"
+    image: "/images/lyluy 4.jpeg",
+    title: "Lyluy"
   },
   {
     id: 2,
-    image: "/images/covergis.jpeg",
-    title: "giskuy"
+    image: "/images/lyluy 9.jpeg",
+    title: "Lyluy"
   },
 ];
 
